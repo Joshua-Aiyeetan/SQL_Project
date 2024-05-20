@@ -1,2 +1,2 @@
 # SQL_Project
-Data Analyst Projects using MYSQL | SQL
+Data Analyst Project using MYSQL | SQL
